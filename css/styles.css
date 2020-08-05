@@ -16,3 +16,10 @@ p.fversion {
   font-weight: bold;
   color: blue;
 }
+
+p.bitmore {
+  width: 25%;
+  font-style: italic;
+  font-weight: bold;
+  color: green;
+}
