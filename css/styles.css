@@ -7,4 +7,12 @@ p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
+  color:red;;
+}
+
+p.fversion {
+  width: 50%;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
 }
